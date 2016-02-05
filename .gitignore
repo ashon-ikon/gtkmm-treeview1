@@ -1,0 +1,26 @@
+# 
+aclocal.m4
+autom4te*
+
+# Configs
+config.*
+configure
+
+depcomp
+
+install-sh
+missing
+
+# Source file
+src/*.o
+src/*.a
+src/Makefile.in
+src/.deps*
+src/Makefile
+
+#Make files
+Makefile
+Makefile.in
+
+stamp-h1
+/bin/*
