@@ -24,3 +24,5 @@ Makefile.in
 
 stamp-h1
 /bin/*
+
+/nbproject
